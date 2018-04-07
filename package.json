@@ -1,0 +1,26 @@
+{
+  "name": "vue-handbook",
+  "version": "1.0.0",
+  "description": "Vue.js reference handbook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwani-luhaniwal/vue-handbook.git"
+  },
+  "keywords": [
+    "VueJS",
+    "handbook"
+  ],
+  "author": "Ashwani K Luhaniwal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashwani-luhaniwal/vue-handbook/issues"
+  },
+  "homepage": "https://github.com/ashwani-luhaniwal/vue-handbook#readme",
+  "dependencies": {
+    "vue": "^2.5.16"
+  }
+}
