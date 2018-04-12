@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/ashwani-luhaniwal/vue-handbook#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "request": "^2.85.0",
     "vue": "^2.5.16"
   }
 }
